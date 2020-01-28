@@ -1,0 +1,334 @@
+2019-12-22 13:40:47.346  INFO 11512 --- [main] com.clase.CSpringApplication             : Starting CSpringApplication on DESKTOP-ODPR2AM with PID 11512 (C:\Users\Brandon\Documents\Java\SpringBoot\CSpring\target\classes started by Brandon in C:\Users\Brandon\Documents\Java\SpringBoot\CSpring)
+2019-12-22 13:40:47.354  INFO 11512 --- [main] com.clase.CSpringApplication             : No active profile set, falling back to default profiles: default
+2019-12-22 13:40:49.227  INFO 11512 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-22 13:40:49.275  INFO 11512 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-22 13:40:49.278  INFO 11512 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-22 13:40:49.498  INFO 11512 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-22 13:40:49.499  INFO 11512 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2065 ms
+2019-12-22 13:40:49.903  INFO 11512 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-22 13:40:50.047  INFO 11512 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-22 13:40:50.330  INFO 11512 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-22 13:40:50.337  INFO 11512 --- [main] com.clase.CSpringApplication             : Started CSpringApplication in 3.838 seconds (JVM running for 4.984)
+2019-12-22 13:43:57.321  INFO 11512 --- [RMI TCP Connection(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-12-22 13:43:57.330  INFO 11512 --- [RMI TCP Connection(9)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-22 15:30:47.050  INFO 13836 --- [main] com.clase.CSpringApplication             : Starting CSpringApplication on DESKTOP-ODPR2AM with PID 13836 (C:\Users\Brandon\Documents\Java\SpringBoot\CSpring\target\classes started by Brandon in C:\Users\Brandon\Documents\Java\SpringBoot\CSpring)
+2019-12-22 15:30:47.057  INFO 13836 --- [main] com.clase.CSpringApplication             : No active profile set, falling back to default profiles: default
+2019-12-22 15:30:49.307  INFO 13836 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-22 15:30:49.354  INFO 13836 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-22 15:30:49.357  INFO 13836 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-22 15:30:49.575  INFO 13836 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-22 15:30:49.576  INFO 13836 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2431 ms
+2019-12-22 15:30:49.987  INFO 13836 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-22 15:30:50.112  INFO 13836 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-22 15:30:50.400  INFO 13836 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-22 15:30:50.407  INFO 13836 --- [main] com.clase.CSpringApplication             : Started CSpringApplication in 4.18 seconds (JVM running for 5.281)
+2019-12-22 15:30:50.409  INFO 13836 --- [main] com.clase.services.impl.PostServiceImpl  : servicio uno
+2019-12-22 15:30:50.410  INFO 13836 --- [main] c.c.services.impl.PostServiceImplDos     : servicio dos
+2019-12-22 15:30:50.411  INFO 13836 --- [main] ication$$EnhancerBySpringCGLIB$$d00298ba : Desarrollo Web
+2019-12-22 15:30:50.412  INFO 13836 --- [main] ication$$EnhancerBySpringCGLIB$$d00298ba : Desarrollo Web Front-End
+2019-12-22 15:30:50.413  INFO 13836 --- [main] ication$$EnhancerBySpringCGLIB$$d00298ba : Desarrollo Web Back-End
+2019-12-22 15:30:50.414  INFO 13836 --- [main] ication$$EnhancerBySpringCGLIB$$d00298ba : Desarrollo Web UX/UI
+2019-12-22 15:33:02.108  INFO 13836 --- [RMI TCP Connection(10)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-12-22 15:33:02.115  INFO 13836 --- [RMI TCP Connection(10)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-22 15:33:07.929  INFO 12716 --- [main] com.clase.CSpringApplication             : Starting CSpringApplication on DESKTOP-ODPR2AM with PID 12716 (C:\Users\Brandon\Documents\Java\SpringBoot\CSpring\target\classes started by Brandon in C:\Users\Brandon\Documents\Java\SpringBoot\CSpring)
+2019-12-22 15:33:07.938  INFO 12716 --- [main] com.clase.CSpringApplication             : No active profile set, falling back to default profiles: default
+2019-12-22 15:33:10.596  INFO 12716 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-22 15:33:10.651  INFO 12716 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-22 15:33:10.660  INFO 12716 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-22 15:33:10.924  INFO 12716 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-22 15:33:10.925  INFO 12716 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2826 ms
+2019-12-22 15:33:11.414  INFO 12716 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-22 15:33:11.608  INFO 12716 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-22 15:33:12.000  INFO 12716 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-22 15:33:12.010  INFO 12716 --- [main] com.clase.CSpringApplication             : Started CSpringApplication in 5.056 seconds (JVM running for 6.844)
+2019-12-22 15:33:12.014  INFO 12716 --- [main] com.clase.services.impl.PostServiceImpl  : servicio uno
+2019-12-22 15:33:12.014  INFO 12716 --- [main] c.c.services.impl.PostServiceImplDos     : servicio dos
+2019-12-22 15:33:12.015  INFO 12716 --- [main] ication$$EnhancerBySpringCGLIB$$16ab3d4d : Desarrollo Web
+2019-12-22 15:33:12.015  INFO 12716 --- [main] ication$$EnhancerBySpringCGLIB$$16ab3d4d : Desarrollo Web Front-End
+2019-12-22 15:33:12.016  INFO 12716 --- [main] ication$$EnhancerBySpringCGLIB$$16ab3d4d : Desarrollo Web Back-End
+2019-12-22 15:33:12.022  INFO 12716 --- [main] ication$$EnhancerBySpringCGLIB$$16ab3d4d : Desarrollo Web UX/UI
+2019-12-22 15:39:37.800  INFO 12716 --- [RMI TCP Connection(15)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-12-22 15:39:37.807  INFO 12716 --- [RMI TCP Connection(15)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-22 15:39:42.514  INFO 12640 --- [main] com.clase.CSpringApplication             : Starting CSpringApplication on DESKTOP-ODPR2AM with PID 12640 (C:\Users\Brandon\Documents\Java\SpringBoot\CSpring\target\classes started by Brandon in C:\Users\Brandon\Documents\Java\SpringBoot\CSpring)
+2019-12-22 15:39:42.521  INFO 12640 --- [main] com.clase.CSpringApplication             : No active profile set, falling back to default profiles: default
+2019-12-22 15:39:44.469  INFO 12640 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-22 15:39:44.515  INFO 12640 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-22 15:39:44.518  INFO 12640 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-22 15:39:44.687  INFO 12640 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-22 15:39:44.687  INFO 12640 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2075 ms
+2019-12-22 15:39:45.086  INFO 12640 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-22 15:39:45.233  INFO 12640 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-22 15:39:45.502  INFO 12640 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-22 15:39:45.509  INFO 12640 --- [main] com.clase.CSpringApplication             : Started CSpringApplication in 3.726 seconds (JVM running for 4.847)
+2019-12-22 15:39:45.512  INFO 12640 --- [main] com.clase.services.impl.PostServiceImpl  : servicio uno
+2019-12-22 15:39:45.512  INFO 12640 --- [main] c.c.services.impl.PostServiceImplDos     : servicio dos
+2019-12-22 15:39:45.513 ERROR 12640 --- [main] ication$$EnhancerBySpringCGLIB$$8afd9f19 : java.lang.NullPointerException: El id es nulo
+2019-12-22 16:30:57.654  INFO 12640 --- [RMI TCP Connection(60)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-12-22 16:30:57.716  INFO 12640 --- [RMI TCP Connection(60)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-22 16:31:06.116  INFO 9340 --- [main] com.clase.CSpringApplication             : Starting CSpringApplication on DESKTOP-ODPR2AM with PID 9340 (C:\Users\Brandon\Documents\Java\SpringBoot\CSpring\target\classes started by Brandon in C:\Users\Brandon\Documents\Java\SpringBoot\CSpring)
+2019-12-22 16:31:06.126  INFO 9340 --- [main] com.clase.CSpringApplication             : No active profile set, falling back to default profiles: default
+2019-12-22 16:31:08.967  INFO 9340 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-22 16:31:09.024  INFO 9340 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-22 16:31:09.029  INFO 9340 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-22 16:31:09.272  INFO 9340 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-22 16:31:09.274  INFO 9340 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2986 ms
+2019-12-22 16:31:09.416  WARN 9340 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'CSpringApplication': Unexpected exception during bean creation; nested exception is java.lang.IllegalStateException: No Scope registered for scope name 'SCOPE_SINGLETON'
+2019-12-22 16:31:09.428  INFO 9340 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2019-12-22 16:31:09.464  INFO 9340 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-22 16:31:09.490 ERROR 9340 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'CSpringApplication': Unexpected exception during bean creation; nested exception is java.lang.IllegalStateException: No Scope registered for scope name 'SCOPE_SINGLETON'
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:528) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:847) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:877) ~[spring-context-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549) ~[spring-context-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141) ~[spring-boot-2.1.11.RELEASE.jar:2.1.11.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:744) [spring-boot-2.1.11.RELEASE.jar:2.1.11.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:391) [spring-boot-2.1.11.RELEASE.jar:2.1.11.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312) [spring-boot-2.1.11.RELEASE.jar:2.1.11.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215) [spring-boot-2.1.11.RELEASE.jar:2.1.11.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1204) [spring-boot-2.1.11.RELEASE.jar:2.1.11.RELEASE]
+	at com.clase.CSpringApplication.main(CSpringApplication.java:53) [classes/:na]
+Caused by: java.lang.IllegalStateException: No Scope registered for scope name 'SCOPE_SINGLETON'
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:350) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:277) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1255) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1175) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:857) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:760) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:218) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1340) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1186) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515) ~[spring-beans-5.1.12.RELEASE.jar:5.1.12.RELEASE]
+	... 14 common frames omitted
+
+2019-12-22 16:31:48.633  INFO 13344 --- [main] com.clase.CSpringApplication             : Starting CSpringApplication on DESKTOP-ODPR2AM with PID 13344 (C:\Users\Brandon\Documents\Java\SpringBoot\CSpring\target\classes started by Brandon in C:\Users\Brandon\Documents\Java\SpringBoot\CSpring)
+2019-12-22 16:31:48.641  INFO 13344 --- [main] com.clase.CSpringApplication             : No active profile set, falling back to default profiles: default
+2019-12-22 16:31:50.622  INFO 13344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-22 16:31:50.666  INFO 13344 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-22 16:31:50.669  INFO 13344 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-22 16:31:50.838  INFO 13344 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-22 16:31:50.839  INFO 13344 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2119 ms
+2019-12-22 16:31:51.238  INFO 13344 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-22 16:31:51.378  INFO 13344 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-22 16:31:51.657  INFO 13344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-22 16:31:51.664  INFO 13344 --- [main] com.clase.CSpringApplication             : Started CSpringApplication in 3.763 seconds (JVM running for 4.94)
+2019-12-22 16:31:51.667  INFO 13344 --- [main] com.clase.services.impl.PostServiceImpl  : servicio uno
+2019-12-22 16:31:51.668  INFO 13344 --- [main] c.c.services.impl.PostServiceImplDos     : servicio dos
+2019-12-22 16:31:51.668 ERROR 13344 --- [main] ication$$EnhancerBySpringCGLIB$$d6705921 : java.lang.NullPointerException: El id es nulo
+2019-12-22 16:32:11.141  INFO 13344 --- [RMI TCP Connection(6)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-12-22 16:32:11.146  INFO 13344 --- [RMI TCP Connection(6)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-22 16:32:15.865  INFO 12072 --- [main] com.clase.CSpringApplication             : Starting CSpringApplication on DESKTOP-ODPR2AM with PID 12072 (C:\Users\Brandon\Documents\Java\SpringBoot\CSpring\target\classes started by Brandon in C:\Users\Brandon\Documents\Java\SpringBoot\CSpring)
+2019-12-22 16:32:15.873  INFO 12072 --- [main] com.clase.CSpringApplication             : No active profile set, falling back to default profiles: default
+2019-12-22 16:32:17.941  INFO 12072 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-22 16:32:17.988  INFO 12072 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-22 16:32:17.990  INFO 12072 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-22 16:32:18.158  INFO 12072 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-22 16:32:18.159  INFO 12072 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2192 ms
+2019-12-22 16:32:18.578  INFO 12072 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-22 16:32:18.710  INFO 12072 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-22 16:32:19.020  INFO 12072 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-22 16:32:19.027  INFO 12072 --- [main] com.clase.CSpringApplication             : Started CSpringApplication in 3.858 seconds (JVM running for 4.938)
+2019-12-22 16:32:19.030  INFO 12072 --- [main] com.clase.services.impl.PostServiceImpl  : servicio uno
+2019-12-22 16:32:19.030  INFO 12072 --- [main] c.c.services.impl.PostServiceImplDos     : servicio dos
+2019-12-22 16:32:19.031  INFO 12072 --- [main] ication$$EnhancerBySpringCGLIB$$149752af : Desarrollo Web
+2019-12-22 16:32:19.032  INFO 12072 --- [main] ication$$EnhancerBySpringCGLIB$$149752af : Desarrollo Web Front-End
+2019-12-22 16:32:19.032  INFO 12072 --- [main] ication$$EnhancerBySpringCGLIB$$149752af : Desarrollo Web Back-End
+2019-12-22 16:32:19.033  INFO 12072 --- [main] ication$$EnhancerBySpringCGLIB$$149752af : Desarrollo Web UX/UI
+2019-12-22 16:38:10.305  INFO 12072 --- [RMI TCP Connection(14)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-12-22 16:38:10.314  INFO 12072 --- [RMI TCP Connection(14)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-22 16:38:16.092  INFO 11744 --- [main] com.clase.CSpringApplication             : Starting CSpringApplication on DESKTOP-ODPR2AM with PID 11744 (C:\Users\Brandon\Documents\Java\SpringBoot\CSpring\target\classes started by Brandon in C:\Users\Brandon\Documents\Java\SpringBoot\CSpring)
+2019-12-22 16:38:16.100  INFO 11744 --- [main] com.clase.CSpringApplication             : No active profile set, falling back to default profiles: default
+2019-12-22 16:38:18.864  INFO 11744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-22 16:38:18.925  INFO 11744 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-22 16:38:18.927  INFO 11744 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-22 16:38:19.189  INFO 11744 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-22 16:38:19.190  INFO 11744 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2979 ms
+2019-12-22 16:38:19.868  INFO 11744 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-22 16:38:20.067  INFO 11744 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-22 16:38:20.638  INFO 11744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-22 16:38:20.646  INFO 11744 --- [main] com.clase.CSpringApplication             : Started CSpringApplication in 5.594 seconds (JVM running for 7.143)
+2019-12-22 16:38:20.650  INFO 11744 --- [main] com.clase.services.impl.PostServiceImpl  : servicio uno
+2019-12-22 16:38:20.654  INFO 11744 --- [main] c.c.services.impl.PostServiceImplDos     : servicio dos
+2019-12-22 16:38:20.659  INFO 11744 --- [main] ication$$EnhancerBySpringCGLIB$$6f691dd7 : Desarrollo Web
+2019-12-22 16:38:20.660  INFO 11744 --- [main] ication$$EnhancerBySpringCGLIB$$6f691dd7 : Desarrollo Web Front-End
+2019-12-22 16:38:20.661  INFO 11744 --- [main] ication$$EnhancerBySpringCGLIB$$6f691dd7 : Desarrollo Web Back-End
+2019-12-22 16:38:20.663  INFO 11744 --- [main] ication$$EnhancerBySpringCGLIB$$6f691dd7 : Desarrollo Web UX/UI
+2019-12-22 16:38:41.584  INFO 11744 --- [RMI TCP Connection(6)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-12-22 16:38:41.590  INFO 11744 --- [RMI TCP Connection(6)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-22 16:38:47.281  INFO 1100 --- [main] com.clase.CSpringApplication             : Starting CSpringApplication on DESKTOP-ODPR2AM with PID 1100 (C:\Users\Brandon\Documents\Java\SpringBoot\CSpring\target\classes started by Brandon in C:\Users\Brandon\Documents\Java\SpringBoot\CSpring)
+2019-12-22 16:38:47.289  INFO 1100 --- [main] com.clase.CSpringApplication             : No active profile set, falling back to default profiles: default
+2019-12-22 16:38:49.625  INFO 1100 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-22 16:38:49.685  INFO 1100 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-22 16:38:49.687  INFO 1100 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-22 16:38:49.950  INFO 1100 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-22 16:38:49.951  INFO 1100 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2558 ms
+2019-12-22 16:38:50.446  INFO 1100 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-22 16:38:50.604  INFO 1100 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-22 16:38:50.973  INFO 1100 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-22 16:38:50.984  INFO 1100 --- [main] com.clase.CSpringApplication             : Started CSpringApplication in 4.91 seconds (JVM running for 6.408)
+2019-12-22 16:38:50.986  INFO 1100 --- [main] com.clase.services.impl.PostServiceImpl  : servicio uno
+2019-12-22 16:38:50.987  INFO 1100 --- [main] c.c.services.impl.PostServiceImplDos     : servicio dos
+2019-12-22 16:38:50.989  INFO 1100 --- [main] ication$$EnhancerBySpringCGLIB$$c0c95f57 : Desarrollo Web
+2019-12-22 16:38:50.990  INFO 1100 --- [main] ication$$EnhancerBySpringCGLIB$$c0c95f57 : Desarrollo Web Front-End
+2019-12-22 16:38:50.990  INFO 1100 --- [main] ication$$EnhancerBySpringCGLIB$$c0c95f57 : Desarrollo Web Back-End
+2019-12-22 16:38:50.992  INFO 1100 --- [main] ication$$EnhancerBySpringCGLIB$$c0c95f57 : Desarrollo Web UX/UI
+2019-12-22 16:40:04.283  INFO 1100 --- [RMI TCP Connection(8)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-12-22 16:40:04.289  INFO 1100 --- [RMI TCP Connection(8)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-22 16:40:09.353  INFO 11580 --- [main] com.clase.CSpringApplication             : Starting CSpringApplication on DESKTOP-ODPR2AM with PID 11580 (C:\Users\Brandon\Documents\Java\SpringBoot\CSpring\target\classes started by Brandon in C:\Users\Brandon\Documents\Java\SpringBoot\CSpring)
+2019-12-22 16:40:09.373  INFO 11580 --- [main] com.clase.CSpringApplication             : No active profile set, falling back to default profiles: default
+2019-12-22 16:40:11.782  INFO 11580 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-22 16:40:11.841  INFO 11580 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-22 16:40:11.848  INFO 11580 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-22 16:40:12.084  INFO 11580 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-22 16:40:12.085  INFO 11580 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2601 ms
+2019-12-22 16:40:12.583  INFO 11580 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-22 16:40:12.733  INFO 11580 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-22 16:40:13.103  INFO 11580 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-22 16:40:13.114  INFO 11580 --- [main] com.clase.CSpringApplication             : Started CSpringApplication in 4.782 seconds (JVM running for 5.978)
+2019-12-22 16:40:13.117  INFO 11580 --- [main] com.clase.services.impl.PostServiceImpl  : servicio uno
+2019-12-22 16:40:13.117  INFO 11580 --- [main] c.c.services.impl.PostServiceImplDos     : servicio dos
+2019-12-22 16:40:13.118  INFO 11580 --- [main] ication$$EnhancerBySpringCGLIB$$6ef213fb : Desarrollo Web
+2019-12-22 16:40:13.119  INFO 11580 --- [main] ication$$EnhancerBySpringCGLIB$$6ef213fb : Desarrollo Web Front-End
+2019-12-22 16:40:13.119  INFO 11580 --- [main] ication$$EnhancerBySpringCGLIB$$6ef213fb : Desarrollo Web Back-End
+2019-12-22 16:40:13.121  INFO 11580 --- [main] ication$$EnhancerBySpringCGLIB$$6ef213fb : Desarrollo Web UX/UI
+2019-12-22 16:59:18.564  INFO 11580 --- [RMI TCP Connection(25)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-12-22 16:59:18.573  INFO 11580 --- [RMI TCP Connection(25)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-22 17:02:37.311  INFO 13760 --- [main] com.clase.CSpringApplication             : Starting CSpringApplication on DESKTOP-ODPR2AM with PID 13760 (C:\Users\Brandon\Documents\Java\SpringBoot\CSpring\target\classes started by Brandon in C:\Users\Brandon\Documents\Java\SpringBoot\CSpring)
+2019-12-22 17:02:37.319  INFO 13760 --- [main] com.clase.CSpringApplication             : No active profile set, falling back to default profiles: default
+2019-12-22 17:02:39.284  INFO 13760 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2019-12-22 17:02:39.370  INFO 13760 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 46ms. Found 0 JDBC repository interfaces.
+2019-12-22 17:02:40.168  INFO 13760 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6f0be049] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-22 17:02:40.737  INFO 13760 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-22 17:02:40.792  INFO 13760 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-22 17:02:40.792  INFO 13760 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-22 17:02:41.001  INFO 13760 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-22 17:02:41.001  INFO 13760 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3425 ms
+2019-12-22 17:02:41.628  INFO 13760 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-22 17:02:41.898  INFO 13760 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-22 17:02:42.179  WARN 13760 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2019-12-22 17:02:42.185  INFO 13760 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-22 17:02:42.196  INFO 13760 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2019-12-22 17:02:42.232  INFO 13760 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-22 17:02:42.256 ERROR 13760 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2019-12-22 17:05:25.531  INFO 12172 --- [main] com.clase.CSpringApplication             : Starting CSpringApplication on DESKTOP-ODPR2AM with PID 12172 (C:\Users\Brandon\Documents\Java\SpringBoot\CSpring\target\classes started by Brandon in C:\Users\Brandon\Documents\Java\SpringBoot\CSpring)
+2019-12-22 17:05:25.537  INFO 12172 --- [main] com.clase.CSpringApplication             : No active profile set, falling back to default profiles: default
+2019-12-22 17:05:27.727  INFO 12172 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-22 17:05:27.777  INFO 12172 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-22 17:05:27.780  INFO 12172 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-22 17:05:27.999  INFO 12172 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-22 17:05:28.000  INFO 12172 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2357 ms
+2019-12-22 17:05:28.489  INFO 12172 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-22 17:05:28.628  INFO 12172 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-22 17:05:28.961  INFO 12172 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-22 17:05:28.968  INFO 12172 --- [main] com.clase.CSpringApplication             : Started CSpringApplication in 4.415 seconds (JVM running for 5.934)
+2019-12-22 17:05:28.971  INFO 12172 --- [main] com.clase.services.impl.PostServiceImpl  : servicio uno
+2019-12-22 17:05:28.973  INFO 12172 --- [main] c.c.services.impl.PostServiceImplDos     : servicio dos
+2019-12-22 17:05:28.974  INFO 12172 --- [main] ication$$EnhancerBySpringCGLIB$$6a2c8828 : Desarrollo Web
+2019-12-22 17:05:28.975  INFO 12172 --- [main] ication$$EnhancerBySpringCGLIB$$6a2c8828 : Desarrollo Web Front-End
+2019-12-22 17:05:28.975  INFO 12172 --- [main] ication$$EnhancerBySpringCGLIB$$6a2c8828 : Desarrollo Web Back-End
+2019-12-22 17:05:28.977  INFO 12172 --- [main] ication$$EnhancerBySpringCGLIB$$6a2c8828 : Desarrollo Web UX/UI
+2019-12-22 17:08:42.649  INFO 12172 --- [RMI TCP Connection(13)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-12-22 17:08:42.656  INFO 12172 --- [RMI TCP Connection(13)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-22 17:10:32.532  INFO 13948 --- [main] com.clase.CSpringApplication             : Starting CSpringApplication on DESKTOP-ODPR2AM with PID 13948 (C:\Users\Brandon\Documents\Java\SpringBoot\CSpring\target\classes started by Brandon in C:\Users\Brandon\Documents\Java\SpringBoot\CSpring)
+2019-12-22 17:10:32.542  INFO 13948 --- [main] com.clase.CSpringApplication             : No active profile set, falling back to default profiles: default
+2019-12-22 17:10:34.077  INFO 13948 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2019-12-22 17:10:34.128  INFO 13948 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 40ms. Found 0 JDBC repository interfaces.
+2019-12-22 17:10:34.837  INFO 13948 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7bdefc52] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-22 17:10:35.449  INFO 13948 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-22 17:10:35.509  INFO 13948 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-22 17:10:35.510  INFO 13948 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-22 17:10:35.716  INFO 13948 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-22 17:10:35.717  INFO 13948 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3040 ms
+2019-12-22 17:10:36.343  INFO 13948 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-22 17:10:36.497  INFO 13948 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-22 17:10:36.738  WARN 13948 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2019-12-22 17:10:36.742  INFO 13948 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-22 17:10:36.750  INFO 13948 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2019-12-22 17:10:36.821  INFO 13948 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-22 17:10:36.837 ERROR 13948 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2019-12-22 17:27:10.650  INFO 12256 --- [main] com.clase.CSpringApplication             : Starting CSpringApplication on DESKTOP-ODPR2AM with PID 12256 (C:\Users\Brandon\Documents\Java\SpringBoot\CSpring\target\classes started by Brandon in C:\Users\Brandon\Documents\Java\SpringBoot\CSpring)
+2019-12-22 17:27:10.668  INFO 12256 --- [main] com.clase.CSpringApplication             : No active profile set, falling back to default profiles: default
+2019-12-22 17:27:12.474  INFO 12256 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2019-12-22 17:27:12.522  INFO 12256 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 35ms. Found 0 JDBC repository interfaces.
+2019-12-22 17:27:13.212  INFO 12256 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ebdf7e41] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-22 17:27:13.756  INFO 12256 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-22 17:27:13.806  INFO 12256 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-22 17:27:13.806  INFO 12256 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-22 17:27:14.049  INFO 12256 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-22 17:27:14.050  INFO 12256 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3219 ms
+2019-12-22 17:27:14.770  INFO 12256 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-22 17:27:14.921  INFO 12256 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-22 17:27:15.153  WARN 12256 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2019-12-22 17:27:15.158  INFO 12256 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-22 17:27:15.167  INFO 12256 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2019-12-22 17:27:15.201  INFO 12256 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-22 17:27:15.216 ERROR 12256 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+

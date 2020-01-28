@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spring.thymeleaf.servelet.content-type",
+  "type": "java.lang.String",
+  "description": "A description for 'spring.thymeleaf.servelet.content-type'"
+}]}
